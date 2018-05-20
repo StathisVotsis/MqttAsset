@@ -731,24 +731,27 @@
     ]
   },
   "packageFolders": {
-    "/Users/stathisvotsis/.nuget/packages/": {}
+    "C:\\Users\\stath\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/stathisvotsis/Desktop/develop/MqttAsset/MqttAsset.Android/MqttAsset.Android.csproj",
+      "projectUniqueName": "C:\\Users\\stath\\Desktop\\develop\\MqttAsset\\MqttAsset.Android\\MqttAsset.Android.csproj",
       "projectName": "MqttAsset.Android",
-      "projectPath": "/Users/stathisvotsis/Desktop/develop/MqttAsset/MqttAsset.Android/MqttAsset.Android.csproj",
-      "packagesPath": "/Users/stathisvotsis/.nuget/packages/",
-      "outputPath": "/Users/stathisvotsis/Desktop/develop/MqttAsset/MqttAsset.Android/obj",
+      "projectPath": "C:\\Users\\stath\\Desktop\\develop\\MqttAsset\\MqttAsset.Android\\MqttAsset.Android.csproj",
+      "packagesPath": "C:\\Users\\stath\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stath\\Desktop\\develop\\MqttAsset\\MqttAsset.Android\\obj\\",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/stathisvotsis/.config/NuGet/NuGet.Config"
+        "C:\\Users\\stath\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -760,29 +763,29 @@
     "frameworks": {
       "monoandroid81": {
         "dependencies": {
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "3.0.0.446417"
-          },
           "Xamarin.Android.Support.Design": {
             "target": "Package",
-            "version": "27.0.2"
-          },
-          "Xamarin.Android.Support.v7.AppCompat": {
-            "target": "Package",
-            "version": "27.0.2"
+            "version": "[27.0.2, )"
           },
           "Xamarin.Android.Support.v4": {
             "target": "Package",
-            "version": "27.0.2"
+            "version": "[27.0.2, )"
+          },
+          "Xamarin.Android.Support.v7.AppCompat": {
+            "target": "Package",
+            "version": "[27.0.2, )"
           },
           "Xamarin.Android.Support.v7.CardView": {
             "target": "Package",
-            "version": "27.0.2"
+            "version": "[27.0.2, )"
           },
           "Xamarin.Android.Support.v7.MediaRouter": {
             "target": "Package",
-            "version": "27.0.2"
+            "version": "[27.0.2, )"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[3.0.0.446417, )"
           }
         }
       }

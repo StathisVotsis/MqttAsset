@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{5EB6C333-3B55-45FE-8B58-43FA4DAB41B5}|Default">
-  <MonoDevelop.Ide.ItemProperties.MqttAsset.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6D203B32-AFCC-4B5B-9706-BD3C6E0C3831" automaticSigning="False" />
+  <MonoDevelop.Ide.ItemProperties.MqttAsset.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8F8E9AB0-9117-4757-9EC0-94C52847CC04" automaticSigning="False" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MqttAsset.iOS/Info.plist">
     <Files>
       <File FileName="MqttAsset/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="MqttAsset/MainPage.xaml" Line="7" Column="15" />
       <File FileName="MqttAsset.iOS/Info.plist" />
+      <File FileName="MqttAsset.iOS/Resources/LaunchScreen.storyboard" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
